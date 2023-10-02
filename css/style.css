@@ -1,0 +1,1322 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+@media all and (max-width: 1366px) { 
+
+
+    .projetos-footer-titulo{
+         bottom: 95px !important;
+    }
+
+    .projetos h1{
+        margin-top: -35px;
+        margin-bottom: 65px !important;
+        font-size: 1em;
+    
+    }
+
+    .desc-contato{
+       
+        font-size: 0.8em !important;
+         
+         
+        width: 430px !important;
+        
+        height: 300px !important;
+        overflow: scroll !important;
+        
+    
+    }
+}
+
+@media all and (min-width: 1024px) and (max-width: 1280px) { 
+
+
+    .projetos-footer-titulo{
+        display: none !important;
+    }
+
+    .projetos h1{
+        margin-top: -35px;
+        margin-bottom: 65px !important;
+        font-size: 1em;
+    
+    }
+
+    
+
+    .contato{
+        
+        flex-direction: column !important;
+         
+    }
+    
+    .redes{
+        font-size: 2em !important;
+        
+        
+        position: absolute;
+        top: -5px;
+        right: 30px;
+        
+    }
+
+    .redes i{
+        margin: 5px;
+    }
+
+    .icons{
+        background-color: #ffffff;
+        
+        flex-direction: row !important;
+        
+
+    }
+    
+ 
+    .box-contato{
+         
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+         
+        flex-direction: column;
+        position: relative;
+       
+    }
+    
+    
+    .titulo-contato{
+         
+         
+        display: none;
+    }
+    
+    .coracao-contato{
+      
+         display: none;
+    }
+    
+    .desc-contato{
+       
+        font-size: 0.8em !important;
+        margin-top: 200px !important;
+         
+        width: 430px !important;
+        
+        height: 500px !important;
+        overflow: scroll !important;
+        
+    
+    }
+    
+    .linguagens-proj-contato{
+       
+        width: 250px;
+        font-size: 0.8em;
+    } 
+    
+     
+    
+    .titulo-desc-contato{
+        font-size: 1.5em ;
+    }
+    
+
+}
+
+
+
+@media all and (min-width: 768px) and (max-width: 1024px) { 
+
+    .nome-bruno{
+            
+        font-size: 14em !important;
+        
+    
+        
+    }
+
+    .sobrenome-gabriel{
+    
+        font-size: 8em !important;
+
+    }
+
+
+    .developer{
+        
+        font-size: 2.5em !important;
+
+    }
+    .footer{
+        width: 200px !important;
+    }
+    .botoes-nav{
+
+        left: -16% !important;
+        bottom: -40% !important;
+    }
+
+    
+    .projetos{
+        
+        text-align: center !important;
+    }
+    .projetos h1{
+        margin-top: -40px;
+        margin-bottom: 35px !important;
+        font-size: 1em;
+       
+    }
+    .projetos-titulo{
+        font-size: 1.8em !important;
+    }
+
+    .projeto{
+        height: 200px !important;
+        margin: 15px !important;
+        
+    }
+    .projeto p{
+       
+        font-size: 0.8em !important;
+         
+    }
+    .titulo-proj{
+        font-weight: bold !important;
+    }
+
+    .desc-proj{
+        width: 230px;
+        
+    }
+    .projetos-footer-titulo{
+         bottom: 355px !important;
+    }
+
+    .linguagens-proj li{
+         display: none !important;
+    }
+
+    .view{
+       
+       
+        top: 65px !important;
+        
+    }
+    
+    .view-git{
+         
+        top: -25px !important;
+         
+    }
+
+    
+
+    .contato{
+        
+        flex-direction: column !important;
+         
+    }
+    
+    .redes{
+        font-size: 2em !important;
+        
+        
+        position: absolute;
+        top: -5px;
+        right: 30px;
+        
+    }
+
+    .redes i{
+        margin: 5px;
+    }
+
+    .icons{
+        background-color: #ffffff;
+        
+        flex-direction: row !important;
+        
+
+    }
+    
+ 
+    .box-contato{
+         
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+         
+        flex-direction: column;
+        position: relative;
+       
+    }
+    
+    
+    .titulo-contato{
+         
+         
+        display: none;
+    }
+    
+    .coracao-contato{
+      
+         display: none;
+    }
+    
+    .desc-contato{
+       
+        font-size: 0.8em !important;
+        margin-top: 200px !important;
+        width: 430px !important;
+        
+        height: 400px !important;
+        overflow: scroll !important;
+        
+    
+    }
+    
+    .linguagens-proj-contato{
+       
+        width: 250px;
+        font-size: 0.8em;
+    } 
+    
+     
+    
+    .titulo-desc-contato{
+        font-size: 1.5em ;
+    }
+    
+}
+   
+
+@media all and (min-width: 480px) and (max-width: 768px) { 
+    
+    .nome-bruno{
+        
+        font-size: 10em !important;
+        
+      
+        
+    }
+    
+    .sobrenome-gabriel{
+      
+        font-size: 7em !important;
+    
+    }
+
+    
+    .developer{
+        
+        font-size: 1.6em !important;
+   
+    }
+    .footer{
+        width: 200px !important;
+    }
+    .botoes-nav{
+ 
+        left: -16% !important;
+        bottom: -40% !important;
+    }
+
+    .box-projetos{
+        
+        flex-direction: column !important;
+        height: 480px !important;
+    }
+    .projetos{
+        height: 55vh !important;
+        text-align: center !important;
+    }
+    .projetos h1{
+        margin-top: 20px;
+        margin-bottom: 35px !important;
+        font-size: 1em;
+       
+    }
+
+    .projeto{
+        height: 200px !important;
+        
+    }
+    .projeto p{
+       
+        font-size: 0.8em !important;
+         
+    }
+    .titulo-proj{
+        font-weight: bold !important;
+    }
+
+    .projetos-footer-titulo{
+        display: none !important;
+    }
+
+    
+    .linguagens-proj li{
+        display: none !important;
+    }
+
+    .view{
+       
+       
+        top: -25px !important;
+      
+    }
+    
+    .view-git{
+         
+        top: -25px !important;
+         
+    }
+
+    .contato{
+        
+        flex-direction: column !important;
+         
+    }
+    
+    .redes{
+        font-size: 2em !important;
+        
+        
+        position: absolute;
+        top: -5px;
+        right: 30px;
+        
+    }
+
+    .redes i{
+        margin: 5px;
+    }
+
+    .icons{
+        background-color: #ffffff;
+        
+        flex-direction: row !important;
+        
+
+    }
+    
+ 
+    .box-contato{
+         
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+         
+        flex-direction: column;
+        position: relative;
+       
+    }
+    
+    
+    .titulo-contato{
+         
+         
+        display: none;
+    }
+    
+    .coracao-contato{
+      
+         display: none;
+    }
+    
+    .desc-contato{
+       
+        font-size: 0.8em !important;
+        margin-top: 200px !important;
+         
+        width: 330px !important;
+        
+        height: 400px !important;
+        overflow: scroll !important;
+        
+    
+    }
+    
+    .linguagens-proj-contato{
+       
+        width: 250px;
+        font-size: 0.8em;
+    } 
+    
+     
+    
+    .titulo-desc-contato{
+        font-size: 1.5em ;
+    }
+    
+    
+   
+    
+
+}
+
+@media all and (max-width: 480px) { 
+
+    .nome-bruno{
+        
+        font-size: 9.5em !important;
+        
+      
+        
+    }
+    
+    .sobrenome-gabriel{
+      
+        font-size: 7em !important;
+    
+    }
+
+    
+    .developer{
+        
+        font-size: 1.4em !important;
+   
+    }
+    .footer{
+        width: 200px !important;
+        margin-bottom: 60px !important;
+    }
+    .botoes-nav{
+ 
+        left: -17% !important;
+        bottom: -40% !important;
+    }
+ 
+    
+
+    .box-projetos{
+        
+        flex-direction: column !important;
+      
+    }
+    .projetos{
+        height: 100vh !important;
+        text-align: center !important;
+    }
+    .projetos h1{
+        margin-top: -30px !important; 
+        margin-bottom: 10px !important;
+        font-size: 0.8em !important;
+       
+    }
+
+    .projeto{
+        height: 200px !important;
+        
+    }
+    .projeto p{
+       
+        font-size: 0.8em !important;
+         
+    }
+    .titulo-proj{
+        font-weight: bold !important;
+    }
+
+    .desc-proj{
+        width: 230px !important;
+    }
+    .projetos-footer-titulo{
+        display: none !important;
+    }
+
+    .linguagens-proj li{
+        display: none !important;
+    }
+
+    .view{
+       
+       
+        top: -25px !important;
+      
+    }
+    
+    .view-git{
+         
+        top: -25px !important;
+         
+    }
+
+
+
+
+
+
+    .contato{
+        
+        flex-direction: column !important;
+         
+    }
+    
+    .redes{
+        font-size: 2em !important;
+        
+        
+        position: absolute;
+        top: -5px;
+        right: 30px;
+        
+    }
+
+    .redes i{
+        margin: 5px;
+    }
+
+    .icons{
+        background-color: #ffffff;
+        
+        flex-direction: row !important;
+        
+
+    }
+    
+ 
+    .box-contato{
+         
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+         
+        flex-direction: column;
+        position: relative;
+       
+    }
+    
+    
+    .titulo-contato{
+         
+         
+        display: none;
+    }
+    
+    .coracao-contato{
+      
+         display: none;
+    }
+    
+    .desc-contato{
+       
+        font-size: 0.8em !important;
+        margin-top: 200px !important;
+         
+        width: 330px !important;
+        
+        height: 400px !important;
+        overflow: scroll !important;
+        
+    
+    }
+    
+    .linguagens-proj-contato{
+       
+        width: 250px;
+        font-size: 0.8em;
+    } 
+    
+     
+    
+    .titulo-desc-contato{
+        font-size: 1.5em ;
+    }
+    
+    
+    
+    
+}
+
+@media all and (max-width: 280px) { 
+
+    .nome-bruno{
+        
+        font-size: 6.8em !important;
+        
+      
+        
+    }
+    
+    .sobrenome-gabriel{
+      
+        font-size: 6em !important;
+    
+    }
+
+    
+    .developer{
+        
+        font-size: 1.2em !important;
+        top: 25px !important;
+        right: 25px !important;
+   
+    }
+    .footer{
+        width: 150px !important;
+    }
+    .botoes-nav{
+ 
+        left: -17% !important;
+        bottom: -80% !important;
+       
+    }
+
+    .botoes-nav li{
+        margin-right: 10% !important;
+        border-radius: 42px !important;
+        width: 16px  !important;
+        height: 16px !important;
+        padding: 18px !important;
+    
+        font-size: 1.8em !important;
+ 
+     }
+      
+
+     
+    .box-projetos{
+        
+        flex-direction: column !important;
+        height: 250px !important;
+        
+       
+    }
+    .projetos{
+        height: 40vh !important;
+        text-align: center !important;
+
+    }
+
+    .projetos h1{
+        margin-top: 125px !important;
+        margin-bottom: 10px !important;
+        font-size: 0.8em;
+       
+    }
+
+    .projeto{
+        height: 200px !important;
+        width: 200px !important;
+        
+    }
+    .projeto p{
+       
+        font-size: 0.8em !important;
+         
+    }
+    .titulo-proj{
+        font-weight: bold !important;
+    }
+
+    .desc-proj{
+        width: 230px !important;
+        display: none !important;
+    }
+    .projetos-footer-titulo{
+        display: none !important;
+    }
+
+    .linguagens-proj li{
+        display: none !important;
+    }
+
+    .view{
+       
+       
+        top: 25px !important;
+        left: 165px !important;
+      
+    }
+    
+    .view-git{
+         
+        top: 75px !important;
+        left: 5px !important;
+    }
+   
+
+     
+    .contato{
+        
+        flex-direction: column !important;
+         
+    }
+    
+    .redes{
+        font-size: 2em !important;
+        
+        
+        position: absolute;
+        top: -5px;
+        right: 30px;
+        
+    }
+
+    .redes i{
+        margin: 5px;
+    }
+
+    .icons{
+        background-color: #ffffff;
+        
+        flex-direction: row !important;
+        
+
+    }
+    
+ 
+    .box-contato{
+         
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+         
+        flex-direction: column;
+        position: relative;
+       
+    }
+    
+    
+    .titulo-contato{
+         
+         
+        display: none;
+    }
+    
+    .coracao-contato{
+      
+         display: none;
+    }
+    
+    .desc-contato{
+       
+        font-size: 0.8em !important;
+        margin-top: 200px !important;
+         
+        width: 250px !important;
+        
+        height: 400px !important;
+        overflow: scroll !important;
+        
+    
+    }
+    
+    .linguagens-proj-contato{
+       
+        width: 250px;
+        font-size: 0.8em;
+    } 
+    
+     
+    
+    .titulo-desc-contato{
+        font-size: 1.5em ;
+    }
+    
+    
+     
+
+
+    
+}
+
+body{
+    width: 100%;
+    overflow: hidden;
+}
+
+.container-principal{
+    width: 100%;
+    height: 100vh;
+    background: rgb(9,15,49);
+    background: linear-gradient(90deg, rgba(9,15,49,1) 45%, rgba(3,1,22,1) 100%);
+     
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+@font-face {
+    font-family: Hugheid;
+    src: url(../fontes/Hugheid.otf);
+}
+
+@font-face {
+    font-family: Atami;
+    src: url(../fontes/Atami-Regular.otf);
+}
+
+.apresentacao{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    animation: 1.5s slide-right;
+    
+}
+
+@keyframes slide-right {
+    from {
+      margin-left: -100%;
+    }
+    to {
+      margin-left: 0%;
+    }
+  }
+
+  @keyframes slide-left {
+    from {
+      margin-right: -100%;
+    }
+    to {
+      margin-right: 0%;
+    }
+  }
+
+a{
+    text-decoration: none;
+    color: white;
+
+
+}
+
+a:visited {
+    
+    text-decoration: none; 
+}
+
+
+
+.nome-bruno{
+    font-family: Hugheid;
+    font-size: 13em;
+    font-weight: lighter;
+    color: white;
+  
+    
+}
+
+
+.sobrenome-gabriel{
+    font-family: Hugheid;
+    font-size: 8em;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+    bottom: -90px;
+}
+
+.box-apresentacao{
+    margin-bottom: 100px;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-8deg);
+    flex-direction: column;
+    position: relative;
+}
+
+.developer{
+    font-family: Atami;
+    font-size: 2.2em;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+    top: 45px;
+    right: 40px;
+}
+
+.botoes-navegaçao{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.botoes-nav{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+
+    position: absolute;
+   
+    left: 13% ;
+    bottom: -60% ;
+  
+    
+}
+
+
+
+.projetos { 
+    width: 100% ;
+    height: 40vh ;
+  
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: none;
+    animation: slide-left 1.5s;
+}
+
+.projetos h1{
+    margin-bottom: 0 ;
+    margin-top: 0 ;
+    font-size:  1.8em;
+}
+
+.projeto p{
+       
+    font-size: inherit ;
+     
+}
+
+.projeto{
+    width: 300px ;
+    height: 300px ;
+    background: black;
+    border-radius: 8PX;
+    margin: 25px;
+    position: relative;
+    transition: all 0.2s;
+    
+}
+ 
+.projetos-titulo{
+    color: white;
+    margin: 15px;
+}
+
+.projetos-footer-titulo{
+    color: #301baa;
+    margin: 15px ;
+    border: 2px #301baa solid;
+    padding: 8px;
+    border-radius: 8px;
+    position: absolute;
+    bottom: 380px ;
+    display: block ;
+}
+
+
+.proj1 {
+    background-image: url(../img/erp.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+     
+}
+
+.proj2 {
+    background-image: url(../img/ibtverp.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+     
+}
+
+.proj3 {
+    background-image: url(../img/Eagle.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+     
+}
+
+.titulo-proj{
+    font-size: 1.6em;
+    margin: 5px;
+}
+.projeto:hover{
+    border: #28168f 6px solid;
+    border-radius: 16px;
+    transition: all 0.2s;
+}
+.projeto:not(:hover){
+    border: #28168f 0px solid;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+
+ 
+.view{
+    position: absolute ;
+    width: 48px ;
+    height: 48px ;
+    border-radius: 48px ;
+    background-color: #331db5;
+    font-size: 2em ;
+    top: 110px ;
+    right: 20px ;
+    color: white ;
+}
+
+.view-git{
+    position: absolute ;
+    width: 120px ;
+    height: auto ;
+    display: flex ;
+    flex-direction: row ;
+    top: 110px ;
+    left: 20px ;
+}
+.view-gitic{
+    position: absolute ;
+    width: 48px ;
+    height: 48px ;
+    border-radius: 48px ;
+    background-color: #331db5;
+    font-size: 2em ;
+
+    left: 0px ;
+    color: white ;
+    z-index: 2 ;
+}
+
+.disp-git{
+    width: 100% ;
+ 
+    font-size: 0.8em ;
+    top: 8px ;
+    left: 35px ;
+    position: absolute ;
+    background-color: #28168f;
+    border: #28168f solid 2px;
+    border-radius: 8px ;
+    color: white;
+    padding: 5px ;
+    padding-left: 14px ;
+    z-index: 1 ;
+}
+
+.view:hover{
+    
+    background-color: white;
+    color:#331db5 !important;
+
+}
+
+
+.view:hover a{
+    
+   
+    color:#331db5 !important;
+
+}
+
+.info-proj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    width: 100% ;
+    height: 55% ;
+    border-radius: 8px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    -webkit-box-shadow: -3px -13px 9px -3px rgba(255,255,255,0.16);
+    -moz-box-shadow: -3px -13px 9px -3px rgba(255,255,255,0.16);
+    box-shadow: -3px -13px 9px -3px rgba(255,255,255,0.16);
+    flex-direction: column;
+     text-align: center;
+}
+
+.linguagens-proj{
+    display: flex ;
+    flex-direction: row ;
+    list-style-type: none ;
+    margin-top: 10px ;
+    
+} 
+.linguagens-proj li{
+    margin-right: 5px;
+    border: 2px solid #331db5;
+    padding: 5px;
+    border-radius: 8px;
+    color: #331db5;
+    display: block ;
+}
+
+.gap-proj{
+    width: 100%;
+    height: 45%;
+}
+
+ 
+
+.box-projetos{
+    width: 80% ;
+    height: 80% ;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row ;
+   
+    /* background-color: rgba(0, 0, 0, 0.479); */
+    border-radius: 18px;
+}
+
+
+.contato{
+    width: 100%;
+    height: 40vh;
+    
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: none;
+    animation: slide-left 1.5s;
+}
+
+.redes{
+    font-size: 4em;
+    margin-left: 30px;
+    color: #331db5 !important;
+    
+
+}
+
+.icons{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.redes i:hover{
+   
+    color: #28168f;
+}
+
+.redes a:hover{
+    color: #28168f;
+}
+
+.redes a{
+    color: #331db5 !important;
+}
+
+.box-contato{
+    margin-bottom: 100px;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+     
+    flex-direction: column;
+    position: relative;
+}
+
+
+.titulo-contato{
+    color: white;
+    font-size: 2.5em;
+
+}
+
+.coracao-contato{
+    font-size: 8em;
+    color: white;
+    margin: 5px;
+}
+
+.desc-contato{
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 25px;
+    width: 500px;
+    text-align: justify;
+
+}
+
+.linguagens-proj-contato{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin-top: 10px;
+    
+} 
+
+.linguagens-proj-contato li{
+    margin-top: 10px;
+    margin-right: 5px;
+    border: 2px solid #331db5;
+    padding: 5px;
+    border-radius: 8px;
+    color: #331db5;
+}
+
+.titulo-desc-contato{
+    font-size: 1.5em ;
+}
+
+
+.footer{
+    width: 400px;
+    height: 150px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.botoes-nav li{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-right: 35px;
+   border-radius: 52px;
+   width: 26px;
+   height: 26px;
+   padding: 18px;
+   background-color: #331db5;
+   border:  #331db5 solid;
+   font-size: 1.8em;
+   text-align: center;
+}
+ 
+.botao-ativo{
+    background-color: white !important;
+    border:  white solid !important;
+    color: #331db5 !important;
+}
+
+
+.botoes-nav li:hover{
+    
+    background-color: white;
+    border:  white solid;
+    color: #331db5;
+    transition: all 0.4s;
+ }
+ .botoes-nav i:hover{
+    
+    
+    color: #331db5;
+    transition: all 0.4s;
+ }
+
+
+
+
