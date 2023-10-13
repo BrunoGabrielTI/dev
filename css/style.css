@@ -488,7 +488,7 @@
     .developer{
         
         font-size: 1.4em !important;
-   
+        top: 30px !important;
     }
     .footer{
         width: 200px !important;
@@ -497,7 +497,7 @@
     .botoes-nav{
  
         left: -17% !important;
-        bottom:  -15% !important;
+        bottom:  -5% !important;
     }
  
     
@@ -505,7 +505,7 @@
     .box-projetos{
         
         flex-direction: column !important;
-      
+        height: 500px !important;
     }
     .projetos{
         height: 100vh !important;
@@ -524,7 +524,7 @@
     }
     .projeto p{
        
-        font-size: 0.8em !important;
+        font-size: 1em !important;
          
     }
     .titulo-proj{
@@ -532,7 +532,8 @@
     }
 
     .desc-proj{
-        width: 230px !important;
+        width: 530px !important;
+        display: none;
     }
     .projetos-footer-titulo{
         display: none !important;
@@ -635,7 +636,7 @@
      
     
     .titulo-desc-contato{
-        font-size: 1.5em ;
+        font-size: 1.2em !important;
     }
     
     
@@ -693,7 +694,7 @@
     .box-projetos{
         
         flex-direction: column !important;
-        height: 250px !important;
+        height: 457px !important;
         
        
     }
@@ -711,7 +712,7 @@
     }
 
     .projeto{
-        height: 200px !important;
+        height: 300px !important;
         width: 200px !important;
         
     }
@@ -725,7 +726,7 @@
     }
 
     .desc-proj{
-        width: 230px !important;
+        width: 330px !important;
         display: none !important;
     }
     .projetos-footer-titulo{
@@ -808,7 +809,7 @@
     .desc-contato{
        
         font-size: 0.8em !important;
-        margin-top: 200px !important;
+        margin-top: 260px !important;
          
         width: 250px !important;
         
@@ -827,7 +828,7 @@
      
     
     .titulo-desc-contato{
-        font-size: 1.5em ;
+        font-size: 1em !important;
     }
     
     
