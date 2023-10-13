@@ -508,7 +508,7 @@
         height: 500px !important;
     }
     .projetos{
-        height: 100vh !important;
+        height: 46vh !important;
         text-align: center !important;
     }
     .projetos h1{
@@ -564,7 +564,7 @@
     .contato{
         
         flex-direction: column !important;
-         
+        height: 46vh !important;
     }
     
     .redes{
