@@ -644,6 +644,16 @@
     
 }
 
+@media all and (max-width: 399px){
+
+    .box-projetos{
+        
+      
+        height: 430px !important;
+    }
+
+}
+
 @media all and (max-width: 280px) { 
 
     .nome-bruno{
