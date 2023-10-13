@@ -470,6 +470,11 @@
 
 @media all and (max-width: 480px) { 
 
+
+    .apresentacao {
+        height: 46vh !important;
+    }
+    
     .nome-bruno{
         
         font-size: 9.5em !important;
