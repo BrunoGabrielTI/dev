@@ -16,24 +16,31 @@
 
     .projetos-titulo{
         margin-top: -15px  !important;
-        margin-bottom: 45px !important;
-        font-size: 1em  !important;
+        margin-bottom: 55px !important;
+         
         
     
     }
 
     .desc-contato{
-       
+
         font-size: 0.8em !important;
-         
-         
+
         width: 530px !important;
         
         height: 430px !important;
         overflow: scroll !important;
-        
-    
+
     }
+    
+    .coracao-contato{
+         font-size: 2em !important;
+         
+    }
+    .titulo-contato{
+         font-size: 1.2em !important;
+    }
+    
 }
 
 @media all and (min-width: 1024px) and (max-width: 1280px) { 
@@ -1025,7 +1032,7 @@ a:visited {
  
 .projetos-titulo{
     color: white;
-    margin-bottom: 25px !important;
+    margin-bottom: 25px;
      
 }
 
