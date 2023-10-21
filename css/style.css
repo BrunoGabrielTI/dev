@@ -1200,7 +1200,7 @@ a:visited {
     justify-content: center;
     align-items: center;
     flex-direction: row ;
-   
+    margin-top: 10px;
     /* background-color: rgba(0, 0, 0, 0.479); */
     border-radius: 18px;
 }
