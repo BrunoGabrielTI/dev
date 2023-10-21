@@ -28,7 +28,7 @@
 
         width: 530px !important;
         
-        height: 430px !important;
+        height: 360px !important;
         overflow: scroll !important;
 
     }
@@ -1295,10 +1295,10 @@ a:visited {
 .linguagens-proj-contato li{
     margin-top: 10px;
     margin-right: 5px;
-    border: 2px solid #331db5;
+    border: 2px solid #00bbff;
     padding: 5px;
     border-radius: 8px;
-    color: #331db5;
+    color: #00bbff;
 }
 
 .titulo-desc-contato{
